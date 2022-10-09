@@ -16,3 +16,11 @@
 15.implement hashing using Linear Probing method
 16.to arrange a series of numbers using Insertion Sort 
 17.arrange a series of numbers using Merge Sort
+18.arrange a series of numbers using Quick Sort
+19.implement Heap sort.
+20.AVL TREE
+21.Graph traversal using Breadth First Search 
+22.Graph traversal using Depth First Search
+23.Shortest Path Algorithms using Dijkstra’s Algorithm
+24.Minimum Spanning Tree using Prim’s Algorithm
+25.Minimum Spanning Tree using Kruskal Algorithm 
